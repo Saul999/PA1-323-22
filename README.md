@@ -1,2 +1,11 @@
-# PA1-323-22
-project 1 for cpsc 323
+# Saul Ruiz 
+# 9/26/22
+# 323 PA1
+
+# Install flex
+1. Sudo apt install flex
+
+# To run the program(commands):
+1. flex filename.l
+2. gcc lex.yy.c 
+3. ./a.out <input_sourcecode.txt > output.txt

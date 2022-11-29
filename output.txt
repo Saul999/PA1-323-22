@@ -1,0 +1,35 @@
+Tokens         Lexems
+Keyword:        int
+Keyword:        main
+Seperator:      (, )
+Seperator:      {, }
+Keyword:        for
+Seperator:      (, )
+Keyword:        int
+Identifier:      i
+Operator:        =
+Integer:         22
+Punctuation:     ;
+Identifier:      i
+Operator:        <=
+Integer:         100
+Punctuation:     ;
+Identifier:      i
+Operator:        =
+Identifier:      i
+Operator:        +
+Integer:         1
+Seperator:      {, }
+Keyword:        while
+Seperator:      (, )
+Identifier:      i
+Operator:        ==
+Integer:         100
+Seperator:      {, }
+Keyword:        cout
+Operator:        <<
+String:       "Hello World!"
+Punctuation:     ;
+Keyword:        return
+Integer:         0
+Punctuation:     ;
