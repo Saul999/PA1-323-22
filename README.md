@@ -1,7 +1,5 @@
 # Saul Ruiz 
 # 9/26/22
-# 323 PA1
-
 # Install flex
 1. Sudo apt install flex
 
